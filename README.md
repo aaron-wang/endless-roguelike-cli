@@ -1,5 +1,5 @@
 # Endless Roguelike (CLI)
-Modest text-based roguelike game. Runs directly in the command line interface.
+Modest text-based roguelike game. Runs directly in the command-line interface.
 
 1. Run `main.py`. 
 2. Follow the instructions on screen. 
@@ -8,7 +8,7 @@ Modest text-based roguelike game. Runs directly in the command line interface.
 The `log.txt` provided is an example. With each game, `log.txt` is overwrited.
 
 ## Note
-This is a school project.
+This is a high school project.
 
 Awkward programming practices are due to requirements in the rubric for this open-ended project.
 
@@ -25,9 +25,11 @@ Examples include:
 
 This is not an exhaustive list.
 
-For archival purposes, the original files will remain untouched.
+**For archival purposes, the original files will remain untouched.**
 
 ## Rules
+> (from `rules.txt`)
+
 Welcome to the 2D Rogue Game!!
 
 You are on a 2d grid with dimensions `n x n`
