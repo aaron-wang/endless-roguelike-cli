@@ -1,0 +1,14 @@
+Spider
+Orc
+Bear
+Goblin
+Zombie
+Skeleton
+Hawk
+Wolf
+Boar
+Ghost
+Imp
+Snake
+Slime
+Wanderer

@@ -1,0 +1,23 @@
+ITEM LOG FOR PREVIOUS GAME
+=================================================================
+ITEM                           EQUIPPED            SCRAPPED
+=================================================================
+Old Club                       +6 Attack
+Used Helmet                    +1 Defense
+Old Rabbit Foot                +1 Speed
+Broken Cap                     +18 Health
+Common Spear                   +17 Attack
+Large Club                     +23 Attack
+Strong Four-leaf Clover        +14 Luck
+Used Rollerblades              +17 Speed
+Old Sword                                          (21 Attack)
+Mystic Flail                   +239 Attack
+Old Helmet                     +8 Defense
+Strong Boots                   +27 Speed
+Damaged Robe                                       (17 Health)
+Used Amulet                    +24 Luck
+Legendary Emerald              +120 Luck
+Used Diamond                                       (68 Luck)
+Legendary Cap                  +283808 Health
+Large Boots                    +34 Speed
+Mystic Shield                  +155 Defense

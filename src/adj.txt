@@ -1,0 +1,15 @@
+Damaged
+Old
+Broken
+Used
+Common
+Uncommon
+Large
+Strong
+Rare
+Epic
+Mystic
+Zealous
+Divine
+Ancient
+Legendary

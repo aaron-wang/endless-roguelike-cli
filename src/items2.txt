@@ -1,0 +1,4 @@
+Shield
+Armor
+Helmet
+Turtle Shell

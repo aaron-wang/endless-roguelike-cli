@@ -1,0 +1,11 @@
+Sword
+Club
+Dagger
+Hammer
+Axe
+Spear
+Mace
+Baton
+Scythe
+Whip
+Flail
